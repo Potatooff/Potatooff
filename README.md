@@ -1,9 +1,9 @@
 ## Hi there, i am Crunchy Potato 🍟. 
 ## Hi there 👋
 
-**🌱 I’m currently learning Rustlang**
-**🔭 I’m currently working on myself, nothing else.**
-**🔥  Check out my website at: [crunchy-potato.com](https://crunchy-potato.vercel.app/)**
+**🌱 I’m currently learning Rustlang**  
+**🔭 I’m currently working on myself, nothing else.**  
+**🔥  Check out my website at: [crunchy-potato.com](https://crunchy-potato.vercel.app/)**  
 <!--
 **Potatooff/Potatooff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
