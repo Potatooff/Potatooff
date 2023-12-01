@@ -1,7 +1,7 @@
 ## Hi there, i am Crunchy Potato 🍟. 
 ## Hi there 👋
 
-**🌱 I’m currently learning C#**   
+**🌱 I’m currently learning Rust**   
 **⚡ Fun fact: I love to cook**   
 **🔭 I’m currently working on Vscode.**     
 **🔥  Check out my website at: [crunchy-potato.com](https://crunchy-potato.vercel.app/)**     
