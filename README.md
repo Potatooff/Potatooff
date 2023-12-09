@@ -1,6 +1,7 @@
 ## Hi there, i am Crunchy Potato 🍟. 
 ## Hi there 👋
 
+**😄 Hobbyist programmer using Python and Csharp**
 **🌱 I’m currently learning Rust**   
 **⚡ Fun fact: I can cook meals**   
 **🔭 I’m currently working on Potatoui - Cresliant.**     
