@@ -2,9 +2,9 @@
 ## Hi there 👋
 
 **🌱 I’m currently learning Rust**   
-**⚡ Fun fact: I love to cook**   
-**🔭 I’m currently working on Vscode.**     
-**🔥  Check out my website at: [crunchy-potato.com](https://crunchy-potato.vercel.app/)**     
+**⚡ Fun fact: I can cook meals**   
+**🔭 I’m currently working on Potatoui - Cresliant.**     
+<!--**🔥  Check out my website at: [crunchy-potato.com](https://crunchy-potato.vercel.app/)**  -->   
 <!--
 **Potatooff/Potatooff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
