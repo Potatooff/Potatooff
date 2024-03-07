@@ -1,10 +1,8 @@
 ## Hi there, i am Crunchy Potato 🍟. 
-## Hi there 👋
 
 **😄 Hobbyist programmer using Python and Csharp**  
-**🌱 I’m currently learning Rust**   
-**⚡ Fun fact: I can cook meals**   
-**🔭 I’m currently working on Potatoui - Cresliant.**     
+**🌱 I’m currently learning Web dev**      
+**🔭 I’m currently working on some deep stuff.**     
 <!--**🔥  Check out my website at: [crunchy-potato.com](https://crunchy-potato.vercel.app/)**  -->   
 <!--
 **Potatooff/Potatooff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
