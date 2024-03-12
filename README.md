@@ -1,6 +1,6 @@
 ## Hi there, i am Crunchy Potato 🍟. 
 
-**😄 Hobbyist programmer using Python and Csharp**  
+**😄 Hobbyist programmer using HTML, CSS, Python and Csharp**  
 **🌱 I’m currently learning Web dev**      
 **🔭 I’m currently working on some deep stuff.**     
 <!--**🔥  Check out my website at: [crunchy-potato.com](https://crunchy-potato.vercel.app/)**  -->   
